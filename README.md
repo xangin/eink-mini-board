@@ -33,7 +33,7 @@
 
 - [墨水屏通用轉接板](https://oshwhub.com/lingdy2012/mo-shui-ping-tong-yong-zhuan-jie-ban-_0603_wos_v0-1) - 閑魚有售
 - [ESP32-C3 開發板 ESP32 SuperMini](https://item.taobao.com/item.htm?id=707413078834)
-- 自製電路連接上面兩片電路，詳細可參考`PCB`資料夾
+- 自製電路連接上面兩片電路
 
 <img src="https://github.com/xangin/eink-mini-board/assets/56766371/99e41766-5d21-4ef5-8a39-22a8d514a38d"  width="50%" />
 
