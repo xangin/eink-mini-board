@@ -25,9 +25,8 @@ ota:
   password: "SimonIoT"
 
 wifi:
-  networks:
-    - ssid: !secret my_ap_ssid
-      password: !secret my_ap_password
+  - ssid: !secret my_ap_ssid
+    password: !secret my_ap_password
   
   # Enable fallback hotspot (captive portal) in case wifi connection fails
   ap:
