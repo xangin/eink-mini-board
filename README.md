@@ -48,3 +48,7 @@ button:
         - display.page.show: p2
         - component.update: my_display
 ```
+
+這邊有2個按鈕，按下去分別會去顯示p1與p2，如果有要再新增更多頁可以再仿照程式碼再新增
+
+
