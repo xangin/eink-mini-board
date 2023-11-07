@@ -16,7 +16,7 @@
 
 <img src="https://github.com/xangin/eink-mini-board/assets/56766371/12abbdc1-18ad-423c-b0ec-0855c366c5ef" width="50%" />
 
-- 時鐘頁面 (溫溼度為讀取自外掛SHT31)
+- 時鐘頁面 (溫溼度為讀取自外掛SHT30)
 
 <img src="https://user-images.githubusercontent.com/56766371/280905433-d5fae821-7332-4d35-b14f-b55f42dde0f8.jpg" width="50%" />
 
