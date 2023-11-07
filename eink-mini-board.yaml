@@ -41,7 +41,6 @@ time:
     id: clock_time
     timezone: Asia/Taipei #edit with your time zone
 
-#SHT31 sensor I2C
 i2c:
   sda: GPIO4
   scl: GPIO5
