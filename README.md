@@ -27,7 +27,8 @@
 ## Hardware 硬體架構
 
 - [微雪 2.9吋黑白墨水屏裸屏](https://detail.tmall.com/item.htm?id=605757420567) - 不帶外殼
-- [电子墨水屏外壳(EW029F2(2.9寸单电池))](https://item.taobao.com/item.htm?id=601700008521)- 外殼
+- [电子墨水屏外壳(EW029F2(2.9寸单电池))](https://item.taobao.com/item.htm?id=601700008521) - 外殼
+- [溫溼度模組](https://item.taobao.com/item.htm?id=581637366281) - SHT30
 
 **電路板**
 
