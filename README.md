@@ -43,11 +43,13 @@
 | SHT30 |	SDA |	GPIO4 |
 |	|SCL	| GPIO5 |
 | | 3V | 3V |
+| | GND | GND |
 | eink |	CS |	GPIO7|
 | |	DC |	GPIO6 |
 | |	CLK |	GPIO2 |
 | |	MOSI |	GPIO3 |
 | | 3V | 3V |
+| | GND | GND |
 
 ## Installation 安裝方式
 
