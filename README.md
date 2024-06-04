@@ -53,7 +53,7 @@
 
 ## Installation 安裝方式
 
-1. 將`/fonts`資料夾內的檔案及`eink-mini-board.yaml`放到HA中`/esphome`的資料夾內
+1. 將`/fonts`資料夾內的檔案及`eink-mini-board-espc3-sht.yaml`放到HA中`/esphome`的資料夾內
 2. 將`eink-mini-board.yaml`的內容修改成自己想要的內容 **解說在下方**
 3. 在ESPhome編譯成功後，將`eink-mini-board.yaml`燒錄或OTA至模組
 4. 完成!
